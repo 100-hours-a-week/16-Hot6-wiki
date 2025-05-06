@@ -1,7 +1,7 @@
 ---
 name: Mentoring-Template
 about: 카카오 멘토링 템플릿
-title: ''
+title: "[yy.mm.dd] 카카오 멘토링"
 labels: 카카오-멘토링
 assignees: ''
 
