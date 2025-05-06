@@ -1,7 +1,7 @@
 ---
 name: Daily-Scrum-Template
 about: 데일리 스크럼 템플릿
-title: ''
+title: "[yy.mm.dd] 데일리 스크럼"
 labels: 데일리-스크럼
 assignees: ''
 
